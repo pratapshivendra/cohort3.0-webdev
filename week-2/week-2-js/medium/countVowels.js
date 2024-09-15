@@ -7,6 +7,22 @@
 
 function countVowels(str) {
     // Your code here
+    // let arr = str.toLowerCase().split('');
+    // let cnt = 0;
+    // for(const c of arr) {
+    //   if(c==='a' || c==='e' || c==='i' || c==='o' || c==='u')
+    //     cnt++;
+    // }
+    // return cnt
+
+    const vowel = 'aeiouAEIOU';
+    let cnt = 0;
+    for(const v of str) {
+      if(vowel.includes(v))
+          cnt++;
+    }
+    return cnt;
 }
 
+// console.log(countVowels("adios"));
 module.exports = countVowels;
