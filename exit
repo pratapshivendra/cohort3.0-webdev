@@ -1,0 +1,198 @@
+[33mcommit 1a8a08e33ba207e5e1b29f82fa66ce02ab2d37be[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: pratapshivendra <shivendrapratap@gmail.com>
+Date:   Sun Sep 15 15:53:35 2024 +0530
+
+    medium question solved
+
+[33mcommit bd78c3d7838017e37ecc60f7cf979420bd236ec9[m[33m ([m[1;31mcohort/main[m[33m)[m
+Author: pratapshivendra <shivendrapratap@gmail.com>
+Date:   Sat Sep 14 23:29:27 2024 +0530
+
+    Week 2: Easy question solved
+
+[33mcommit 9c2473ebfbc198159dd4d3677d5bd182e7ee16de[m
+Author: pratapshivendra <shivendrapratap@gmail.com>
+Date:   Sat Sep 14 23:25:53 2024 +0530
+
+    Week 2: Easy , med solved
+
+[33mcommit d774e706c50d1bf2891ea243bf560aba6164df31[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: d5bb23c 81c09be
+Author: Kirat <harkirat96@gmail.com>
+Date:   Sat Sep 14 17:38:23 2024 +0530
+
+    Merge pull request #56 from Praashh/main
+    
+    week-6 assignments added
+
+[33mcommit 81c09be722d9757ab2359c36db37562fc086bb49[m
+Author: Prashant Varma <prashantvarma5083@gmail.com>
+Date:   Tue Sep 10 22:29:58 2024 +0530
+
+    week-6 assignments added
+
+[33mcommit d5bb23ca6dc37e5b5fee5886fb0798727a256ab9[m
+Merge: 7ef23a9 f6578ec
+Author: Kirat <harkirat96@gmail.com>
+Date:   Fri Sep 6 09:49:02 2024 +0530
+
+    Merge pull request #52 from Praashh/main
+    
+    chore: added question desc
+
+[33mcommit f6578ec24a6f2c023f151fd0671e1762be2c3799[m
+Author: Prashant Varma <prashantvarma5083@gmail.com>
+Date:   Fri Sep 6 01:46:17 2024 +0530
+
+    chore: added question desc
+
+[33mcommit 7ef23a90efd5362e12bf547ebee6c8ad6d54d76a[m
+Merge: ca1b68b 2b9146d
+Author: Kirat <harkirat96@gmail.com>
+Date:   Thu Sep 5 22:57:17 2024 +0530
+
+    Merge pull request #51 from Praashh/main
+    
+    Assignments Added
+
+[33mcommit 2b9146dd8a19d94e61fd6709c628f6b9af88cb3a[m
+Author: Prashant Varma <prashantvarma5083@gmail.com>
+Date:   Thu Sep 5 22:49:01 2024 +0530
+
+    week-5 assignment added
+
+[33mcommit ca1b68be50f55cc2de1961380f27818a82ac046f[m
+Merge: 73e7f6e d779079
+Author: Kirat <harkirat96@gmail.com>
+Date:   Thu Sep 5 17:05:33 2024 +0530
+
+    Merge pull request #34 from sumana10/solution-branch
+    
+    Solution branch
+
+[33mcommit 107391334a36c7f17d6dfd995c752c46073d25cd[m
+Author: Prashant Varma <prashantvarma5083@gmail.com>
+Date:   Tue Sep 3 17:30:53 2024 +0530
+
+    week-4 completed
+
+[33mcommit 4b319951be4442dae471debfd7e665843fb432d0[m
+Author: Prashant Varma <prashantvarma5083@gmail.com>
+Date:   Tue Sep 3 17:29:01 2024 +0530
+
+    fix: .env
+
+[33mcommit ebbda4eff1e464d219acc49170c1d06da49712d1[m
+Author: Prashant Varma <prashantvarma5083@gmail.com>
+Date:   Tue Sep 3 17:28:26 2024 +0530
+
+    fix: .env
+
+[33mcommit 520cef296b02684cbdf50214f6461e31a040dbde[m
+Author: Prashant Varma <prashantvarma5083@gmail.com>
+Date:   Tue Sep 3 17:21:59 2024 +0530
+
+    added the week-4/hard
+
+[33mcommit 71f37140f6c55cde8dc3baafe7ece66510411f30[m
+Author: Prashant Varma <prashantvarma5083@gmail.com>
+Date:   Tue Sep 3 14:40:50 2024 +0530
+
+    week-4 done
+
+[33mcommit 6e500ed680e9137fa9d0aa30743d7a3b5cc4db24[m
+Author: Prashant Varma <prashantvarma5083@gmail.com>
+Date:   Tue Sep 3 08:34:45 2024 +0530
+
+    added week-3 assignments
+
+[33mcommit d7790790472d40c99210b8060fa8d3f6b9233438[m
+Author: sumana10 <sumanaonlyme@gmail.com>
+Date:   Sun Aug 25 01:52:36 2024 +0530
+
+    week-2 solution async
+
+[33mcommit b5a52e63cd15649dab75a867c002e1a366d72226[m
+Author: sumana10 <sumanaonlyme@gmail.com>
+Date:   Sun Aug 25 01:34:02 2024 +0530
+
+    week-2 solution
+
+[33mcommit 73e7f6e009de2c6f685c4af9a708e2e90acd0ed0[m
+Author: hkirat <harkirat96@gmail.com>
+Date:   Wed Aug 14 17:54:52 2024 +0530
+
+    Latest code
+
+[33mcommit c949c5b912a5e6356db9defdbe05ca041a71c2be[m
+Author: hkirat <harkirat96@gmail.com>
+Date:   Wed Aug 14 16:19:40 2024 +0530
+
+    Added VSCode landing page assignments
+
+[33mcommit 3408f28573566dcf2f99e22dbd4f2d33705046ad[m
+Merge: 8951184 67c0a01
+Author: hkirat <harkirat96@gmail.com>
+Date:   Wed Aug 14 13:30:22 2024 +0530
+
+    Merge branch 'main' of https://github.com/100xdevs-cohort-3/assignments
+
+[33mcommit 8951184adf1b1ee2078eb401b12d74fc64a13489[m
+Author: harkirat <harkirat96@gmail.com>
+Date:   Wed Aug 14 13:29:30 2024 +0530
+
+    removed .ds_store
+
+[33mcommit 67c0a0134720d570b9314c7b53be2de4e26395de[m
+Merge: 2f6bdd4 16379e2
+Author: Kirat <harkirat96@gmail.com>
+Date:   Wed Aug 14 13:28:40 2024 +0530
+
+    Merge pull request #8 from ofcljaved/solution
+    
+    Chore: Solution Week -1
+
+[33mcommit 16379e2e98ffb96b33671a9ddb2d1dd39bf1090c[m
+Author: javed <javed@local.com>
+Date:   Wed Aug 14 10:19:58 2024 +0530
+
+    chore:add responsiveness
+
+[33mcommit 31cc65a2f9e472d2cb49f128d85e5f8931b2f469[m
+Author: Javed <javedofficialme@gmail.com>
+Date:   Wed Aug 14 08:36:20 2024 +0530
+
+    chore: vscode solution
+
+[33mcommit 2f6bdd4044d9e6dda2a429ac7a3c1bae224d67a1[m
+Author: harkirat <harkirat96@gmail.com>
+Date:   Wed Aug 14 07:45:08 2024 +0530
+
+    fixed
+
+[33mcommit 3f022f9237becb277935a2fee70fb7eeeee15244[m
+Merge: 09aca8a 0095b72
+Author: Kirat <harkirat96@gmail.com>
+Date:   Sun Aug 11 18:52:28 2024 +0530
+
+    Merge pull request #2 from sidxh/main
+    
+    week2: added assignments for basic js and async, await, promises
+
+[33mcommit 0095b721c064d1a6297bf7b419fc69e5a77eff8d[m
+Author: sidxh <totallysiddhant@gmail.com>
+Date:   Sun Aug 11 13:33:19 2024 +0530
+
+    week2: added assignments for basic js and async, await, promises
+
+[33mcommit 09aca8a667a2c58dc9dead12d24ff2afbe25d6d2[m
+Author: harkirat <harkirat96@gmail.com>
+Date:   Sun Aug 11 13:11:33 2024 +0530
+
+    Added week-1
+
+[33mcommit c6730d8bfa0e5a578b1d858df81420da15250b01[m
+Author: Kirat <harkirat96@gmail.com>
+Date:   Sun Aug 11 02:00:36 2024 +0530
+
+    Create README.md

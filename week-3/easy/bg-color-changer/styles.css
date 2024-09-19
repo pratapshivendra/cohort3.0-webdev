@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+#navbar {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+#colorpicker {
+    box-sizing: border-box; 
+    /* box-shadow: 1px 1px 20px #888888; */
+    border-radius: 8px;
+    padding: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 110%;
+    align-items: center;
+    justify-content: space-around;
+    /* background-color: #fff;  */
+}
+
+button{
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    padding: 8px; 
+    font-size: 14px; 
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+}
+#customcolor {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 10px;
+    width: 300px; /* Adjust width as needed */
+    margin-bottom: 100px;
+}
+
+.ipbox {
+    margin-bottom: 10px; /* Space between input and button */
+    padding: 10px;
+    width: 100%; /* Full width of the #customcolor div */
+    height: 40px;
+    border-radius: 100px;
+}
+
+.check {
+    padding: 5px 10px;
+    border-radius: 100px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    width: 80%; /* Full width of the #customcolor div */
+}
+
+.check:hover {
+    background-color: #0056b3;
+}

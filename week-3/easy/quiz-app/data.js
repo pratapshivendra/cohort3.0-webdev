@@ -1,5 +1,5 @@
 //  use this quizData in your app.
-export const quizData = [{
+export  const quizData = [{
     "question": "Which language runs in a web browser?",
     "a": "Java",
     "b": "C",
@@ -33,3 +33,5 @@ export const quizData = [{
 },
 // you can add more quiz here
 ]
+
+
